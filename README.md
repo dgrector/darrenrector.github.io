@@ -7,5 +7,3 @@ https://github.com/darrenrector/
 My Github Pages repository can be found at:
 https://github.com/darrenrector/darrenrector.github.io/
 
-My customized homepage is located at:
-http://darrenrector.github.io
